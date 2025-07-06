@@ -24,8 +24,8 @@ app.use(json());
 const PROVIDERS = [
   "https://vidsrc.xyz",
   "https://vidsrc.in",
-//	  "https://vidsrc.pm",
-//	  "https://vidsrc.net",
+	  "https://vidsrc.pm",
+	  "https://vidsrc.net",
 ];
 
 export const LANGUAGE_NAMES = {
